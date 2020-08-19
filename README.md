@@ -2,6 +2,8 @@
 
 Implementation of RCNN from Scratch with provided intense well-documented code.
 
+(Blog: https://medium.com/@sahiltinky94/object-detection-r-cnn-aa2b180bfb49 )
+
 If you just only want to view this ipynb, kindly click that file which contain `pdf` extension file as some images are not visible/showing in `ipynb` extensive.
 Otherwise download and view `ipynb` in your system for better well-documented code. I also provided img/ folder.
 
